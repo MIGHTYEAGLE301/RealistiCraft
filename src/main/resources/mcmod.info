@@ -1,0 +1,21 @@
+[
+{
+  "modid": "realisticraft",
+  "name": "RealistiCraft",
+  "description": "A mod about Everything!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "MightyEagle0367"
+  ],
+  "credits": "Pahimar, thank you intoduce me to Minecraft Moding!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
