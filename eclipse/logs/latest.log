@@ -1,9 +1,9 @@
-[20:49:12] [main/INFO]: Setting user: ForgeDevName
-[20:49:15] [Client thread/INFO]: LWJGL Version: 2.9.1
-[20:49:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[20:49:26] [Sound Library Loader/INFO]: Sound engine started
-[20:49:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[20:49:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/itemrealisticraftcopperIngot .png
+[22:01:59] [main/INFO]: Setting user: ForgeDevName
+[22:02:01] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:02:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
+[22:02:12] [Sound Library Loader/INFO]: Sound engine started
+[22:02:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:02:14] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/itemrealisticraftcopperIngot .png
 java.io.FileNotFoundException: minecraft:textures/items/itemrealisticraftcopperIngot .png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -33,9 +33,9 @@ java.io.FileNotFoundException: minecraft:textures/items/itemrealisticraftcopperI
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[20:49:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[20:49:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[20:49:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/itemrealisticraftcopperIngot .png
+[22:02:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:02:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
+[22:02:15] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/itemrealisticraftcopperIngot .png
 java.io.FileNotFoundException: minecraft:textures/items/itemrealisticraftcopperIngot .png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -68,25 +68,27 @@ java.io.FileNotFoundException: minecraft:textures/items/itemrealisticraftcopperI
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[20:49:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[20:49:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[20:49:30] [Sound Library Loader/INFO]: Sound engine started
-[20:49:34] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[20:49:34] [Server thread/INFO]: Generating keypair
-[20:49:35] [Server thread/INFO]: Preparing start region for level 0
-[20:49:36] [Server thread/INFO]: Preparing spawn area: 45%
-[20:49:37] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:49:38] [Server thread/INFO]: ForgeDevName[local:E:e80f4737] logged in with entity id 346 at (-134.85930584709214, 77.0, 275.3562596341034)
-[20:49:38] [Server thread/INFO]: ForgeDevName joined the game
-[20:49:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2074ms behind, skipping 41 tick(s)
-[20:49:42] [Server thread/INFO]: Saving and pausing game...
-[20:49:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[20:49:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[20:49:42] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[20:49:43] [Client thread/INFO]: Stopping!
-[20:49:43] [Server thread/INFO]: Stopping server
-[20:49:43] [Server thread/INFO]: Saving players
-[20:49:43] [Server thread/INFO]: Saving worlds
-[20:49:43] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[20:49:43] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[20:49:43] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:02:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:02:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:02:16] [Sound Library Loader/INFO]: Sound engine started
+[22:02:27] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:02:27] [Server thread/INFO]: Generating keypair
+[22:02:28] [Server thread/INFO]: Preparing start region for level 0
+[22:02:29] [Server thread/INFO]: Preparing spawn area: 31%
+[22:02:30] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:02:30] [Server thread/INFO]: ForgeDevName[local:E:d89766c6] logged in with entity id 346 at (-146.58953555297225, 78.0, 278.5779457331394)
+[22:02:30] [Server thread/INFO]: ForgeDevName joined the game
+[22:02:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2286ms behind, skipping 45 tick(s)
+[22:02:39] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[22:02:39] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[22:02:51] [Client thread/INFO]: [CHAT] There is no such item with ID realisticraft
+[22:02:59] [Server thread/INFO]: Saving and pausing game...
+[22:03:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:03:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:03:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:03:01] [Client thread/INFO]: Stopping!
+[22:03:01] [Server thread/INFO]: Stopping server
+[22:03:01] [Server thread/INFO]: Saving players
+[22:03:01] [Server thread/INFO]: Saving worlds
+[22:03:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:03:01] [Client Shutdown Thread/INFO]: Stopping server
