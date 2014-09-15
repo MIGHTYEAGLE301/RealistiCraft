@@ -6,3 +6,5 @@ item.realisticraft:wrench.name=Wrench
 tile.realisticraft:copperBlock.name=Copper Block
 tile.realisticraft:tinBlock.name=Tin Block
 tile.realisticraft:uraniumBlock.name=Uranium Block
+
+itemGroup.realisticraft=RealistiCraft

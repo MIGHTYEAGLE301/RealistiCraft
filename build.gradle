@@ -1,5 +1,3 @@
-import com.mightyeagle.realisticraft.RealistiCraft
-import com.mightyeagle.realisticraft.reference.Reference
 
 buildscript {
     repositories {
@@ -20,9 +18,9 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = Reference.VERSION
+version = "1.7.10-0.1.13"
 group= "com.mightyeagle.realisticraft" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = Reference.MOD_NAME
+archivesBaseName = "RealistiCraft"
 
 minecraft {
     version = "1.7.10-10.13.0.1208"

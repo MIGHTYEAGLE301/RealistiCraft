@@ -1,6 +1,8 @@
 package com.mightyeagle.realisticraft.blocks;
 
 
+import com.mightyeagle.realisticraft.creativetab.RCCreativeTab;
+
 public class TinBlock extends RCBlock
 {
     public TinBlock()
@@ -8,5 +10,6 @@ public class TinBlock extends RCBlock
         super();
         this.setBlockName("tinBlock");
         this.setBlockTextureName("tinBlock");
+        this.setCreativeTab(RCCreativeTab.RC_TAB);
     }
 }

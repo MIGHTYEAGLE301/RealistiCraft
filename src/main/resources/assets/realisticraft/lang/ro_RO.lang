@@ -1,0 +1,10 @@
+item.realisticraft:copperIngot.name=Lingou de Cupru
+item.realisticraft:tinIngot.name=Lingou de Tin
+item.realisticraft:uraniumIngot.name=Lingou de Uranium
+item.realisticraft:wrench.name=Clește
+
+tile.realisticraft:copperBlock.name=Block de Cupru
+tile.realisticraft:tinBlock.name=Block de Tin
+tile.realisticraft:uraniumBlock.name=Block de Uranium
+
+itemGroup.realisticraft=RealistiCraft
