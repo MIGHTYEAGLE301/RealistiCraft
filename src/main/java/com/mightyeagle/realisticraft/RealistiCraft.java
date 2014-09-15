@@ -1,6 +1,7 @@
 package com.mightyeagle.realisticraft;
 
 import com.mightyeagle.realisticraft.handler.ConfigurationHandler;
+import com.mightyeagle.realisticraft.init.ModBlocks;
 import com.mightyeagle.realisticraft.init.ModItems;
 import com.mightyeagle.realisticraft.proxy.IProxy;
 import com.mightyeagle.realisticraft.reference.Reference;
@@ -28,6 +29,7 @@ public class RealistiCraft
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
 
         ModItems.init();
+        ModBlocks.init();
 
         LogHelper.info("Pre Initialization Complete!");
     }

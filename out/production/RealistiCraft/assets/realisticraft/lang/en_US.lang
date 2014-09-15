@@ -1,3 +1,8 @@
 item.realisticraft:copperIngot.name=Copper Ingot
+item.realisticraft:tinIngot.name=Tin Ingot
+item.realisticraft:uraniumIngot.name=Uranium Ingot
+item.realisticraft:wrench.name=Wrench
 
-block.realisticraft:copperBlock.name=Copper Block
+tile.realisticraft:copperBlock.name=Copper Block
+tile.realisticraft:tinBlock.name=Tin Block
+tile.realisticraft:uraniumBlock.name=Uranium Block

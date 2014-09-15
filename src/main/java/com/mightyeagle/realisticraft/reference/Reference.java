@@ -8,5 +8,5 @@ public class Reference
     public static final  String SERVER_PROXY_CLASS ="com.mightyeagle.realisticraft.proxy.ServerProxy";
     public static final  String CLIENT_PROXY_CLASS ="com.mightyeagle.realisticraft.proxy.ClientProxy";
     public static final  String GUI_FACTORY_CLASS ="com.mightyeagle.realisticraft.client.gui.GuiFactory";
-    public static final  String TEXTURE_PATH ="assets.realisticraft.textures.";
+    public static final  String CEVA =MOD_ID.toLowerCase() + ":";
 }

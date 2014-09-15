@@ -20,7 +20,6 @@ public class RCBlock extends Block
         this(Material.rock);
     }
 
-
     @Override
     public String getUnlocalizedName()
     {
