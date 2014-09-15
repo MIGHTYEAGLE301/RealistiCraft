@@ -21,7 +21,6 @@ Well this mod is for you!
 
 
  Other information:
- -Build 13
  -Mod Version: 1.7.10-0.1.4
  -Minecraft Forge Version: 1.7.10-10.13.0.1208
  -Minecraft Version:1.7.10

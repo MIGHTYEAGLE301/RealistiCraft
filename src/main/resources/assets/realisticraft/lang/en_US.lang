@@ -2,6 +2,7 @@ item.realisticraft:copperIngot.name=Copper Ingot
 item.realisticraft:tinIngot.name=Tin Ingot
 item.realisticraft:uraniumIngot.name=Uranium Ingot
 item.realisticraft:wrench.name=Wrench
+item.realisticraft:greenHandle=Green Handle
 
 tile.realisticraft:copperBlock.name=Copper Block
 tile.realisticraft:tinBlock.name=Tin Block

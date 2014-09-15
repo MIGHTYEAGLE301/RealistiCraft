@@ -3,6 +3,7 @@ package com.mightyeagle.realisticraft;
 import com.mightyeagle.realisticraft.handler.ConfigurationHandler;
 import com.mightyeagle.realisticraft.init.ModBlocks;
 import com.mightyeagle.realisticraft.init.ModItems;
+import com.mightyeagle.realisticraft.init.Recipes;
 import com.mightyeagle.realisticraft.proxy.IProxy;
 import com.mightyeagle.realisticraft.reference.Reference;
 import com.mightyeagle.realisticraft.utility.LogHelper;
@@ -40,6 +41,7 @@ public class RealistiCraft
     public void init(FMLInitializationEvent event)
     {
         LogHelper.info("Initialization Complete!");
+        Recipes.init();
     }
 
     @Mod.EventHandler

@@ -1,64 +1,48 @@
-[18:33:22] [main/INFO]: Setting user: ForgeDevName
-[18:33:24] [Client thread/INFO]: LWJGL Version: 2.9.1
-[18:33:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[18:33:34] [Sound Library Loader/INFO]: Sound engine started
-[18:33:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:33:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:33:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[18:33:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:33:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:33:38] [Sound Library Loader/INFO]: Sound engine started
-[18:33:43] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[18:33:43] [Server thread/INFO]: Generating keypair
-[18:33:44] [Server thread/INFO]: Preparing start region for level 0
-[18:33:45] [Server thread/INFO]: Preparing spawn area: 38%
-[18:33:46] [Server thread/INFO]: Changing view distance to 12, from 10
-[18:33:47] [Server thread/INFO]: ForgeDevName[local:E:12179bcf] logged in with entity id 326 at (-276.17791879944, 68.0, 140.71591247022752)
-[18:33:47] [Server thread/INFO]: ForgeDevName joined the game
-[18:34:00] [Server thread/INFO]: Saving and pausing game...
-[18:34:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[18:34:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[18:34:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[18:35:12] [Server thread/INFO]: Saving and pausing game...
-[18:35:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[18:35:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[18:35:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[18:35:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[18:35:33] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:35:33] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:35:34] [Sound Library Loader/INFO]: Sound engine started
-[18:35:55] [Server thread/INFO]: Saving and pausing game...
-[18:35:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[18:35:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[18:35:55] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[18:36:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[18:36:03] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:36:03] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:36:04] [Sound Library Loader/INFO]: Sound engine started
-[18:36:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[18:36:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:36:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:36:13] [Sound Library Loader/INFO]: Sound engine started
-[18:36:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[18:36:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:36:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:36:18] [Sound Library Loader/INFO]: Sound engine started
-[18:37:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[18:37:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:37:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:37:37] [Sound Library Loader/INFO]: Sound engine started
-[18:37:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
-[18:37:40] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:37:40] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:37:41] [Sound Library Loader/INFO]: Sound engine started
-[18:38:09] [Server thread/INFO]: Saving and pausing game...
-[18:38:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[18:38:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[18:38:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[18:38:10] [Server thread/INFO]: Stopping server
-[18:38:10] [Server thread/INFO]: Saving players
-[18:38:10] [Server thread/INFO]: Saving worlds
-[18:38:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[18:38:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[18:38:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[18:38:12] [Client thread/INFO]: Stopping!
+[20:00:04] [main/INFO]: Setting user: ForgeDevName
+[20:00:06] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:00:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
+[20:00:16] [Sound Library Loader/INFO]: Sound engine started
+[20:00:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:00:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:00:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RealistiCraft
+[20:00:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:00:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:00:20] [Sound Library Loader/INFO]: Sound engine started
+[20:00:27] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:00:27] [Server thread/INFO]: Generating keypair
+[20:00:28] [Server thread/INFO]: Preparing start region for level 0
+[20:00:29] [Server thread/INFO]: Preparing spawn area: 29%
+[20:00:30] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:00:31] [Server thread/INFO]: ForgeDevName[local:E:ca7fdb55] logged in with entity id 337 at (-275.8215535640553, 69.0, 140.30000001192093)
+[20:00:31] [Server thread/INFO]: ForgeDevName joined the game
+[20:00:39] [Server thread/INFO]: Saving and pausing game...
+[20:00:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:00:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:00:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:01:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2429ms behind, skipping 48 tick(s)
+[20:02:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2077ms behind, skipping 41 tick(s)
+[20:02:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5579ms behind, skipping 111 tick(s)
+[20:03:04] [Client thread/INFO]: [CHAT] realisticraft:tinIngot, realisticraft:uraniumIngot, realisticraft:copperIngot, realisticraft:tinBlock, realisticraft:uraniumBlock, realisticraft:copperBlock, realisticraft:greenHandle, realisticraft:wrench
+[20:03:06] [Client thread/INFO]: [CHAT] realisticraft:tinIngot, realisticraft:uraniumIngot, realisticraft:copperIngot, realisticraft:tinBlock, realisticraft:uraniumBlock, realisticraft:copperBlock, realisticraft:greenHandle, realisticraft:wrench
+[20:03:06] [Client thread/INFO]: [CHAT] realisticraft:tinIngot, realisticraft:uraniumIngot, realisticraft:copperIngot, realisticraft:tinBlock, realisticraft:uraniumBlock, realisticraft:copperBlock, realisticraft:greenHandle, realisticraft:wrench
+[20:03:07] [Client thread/INFO]: [CHAT] realisticraft:tinIngot, realisticraft:uraniumIngot, realisticraft:copperIngot, realisticraft:tinBlock, realisticraft:uraniumBlock, realisticraft:copperBlock, realisticraft:greenHandle, realisticraft:wrench
+[20:03:07] [Client thread/INFO]: [CHAT] realisticraft:tinIngot, realisticraft:uraniumIngot, realisticraft:copperIngot, realisticraft:tinBlock, realisticraft:uraniumBlock, realisticraft:copperBlock, realisticraft:greenHandle, realisticraft:wrench
+[20:03:08] [Client thread/INFO]: [CHAT] realisticraft:tinIngot, realisticraft:uraniumIngot, realisticraft:copperIngot, realisticraft:tinBlock, realisticraft:uraniumBlock, realisticraft:copperBlock, realisticraft:greenHandle, realisticraft:wrench
+[20:03:09] [Client thread/INFO]: [CHAT] realisticraft:tinIngot, realisticraft:uraniumIngot, realisticraft:copperIngot, realisticraft:tinBlock, realisticraft:uraniumBlock, realisticraft:copperBlock, realisticraft:greenHandle, realisticraft:wrench
+[20:03:09] [Server thread/INFO]: [ForgeDevName: Given [item.realisticraft:greenHandle.name] * 1 to ForgeDevName]
+[20:03:09] [Client thread/INFO]: [CHAT] Given [item.realisticraft:greenHandle.name] * 1 to ForgeDevName
+[20:03:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[20:03:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3786ms behind, skipping 75 tick(s)
+[20:03:29] [Server thread/INFO]: Saving and pausing game...
+[20:03:29] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:03:29] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:03:29] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:03:30] [Client thread/INFO]: Stopping!
+[20:03:30] [Server thread/INFO]: Stopping server
+[20:03:30] [Server thread/INFO]: Saving players
+[20:03:30] [Server thread/INFO]: Saving worlds
+[20:03:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:03:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:03:30] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:03:31] [Client Shutdown Thread/INFO]: Stopping server
+[20:03:31] [Client Shutdown Thread/INFO]: Saving players
